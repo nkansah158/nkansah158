@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Lord Nkansah!
 
-<!--
-**nkansah158/nkansah158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on building innovative tech solutions at ScopeTech, including health, finance, and sports platforms. 
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Machine Learning, AI, and Data Science to integrate intelligence into my applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on open-source projects related to AI-driven solutions.
+
+💬 Ask me about web & mobile app development, React, Python, MongoDB, and user-friendly UI/UX design.
+
+📫 How to reach me:
+
+LinkedIn: linkedin.com/in/lordnkansah
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I’m passionate about bridging the gap between technology and healthcare to create impactful solutions!
