@@ -1,6 +1,6 @@
 👋 Hi, I'm Lord Nkansah!
 
-🔭 I’m currently working on building innovative tech solutions at ScopeTech, including health, finance, and sports platforms. 
+
 
 🌱 I’m currently learning Machine Learning, AI, and Data Science to integrate intelligence into my applications.
 
